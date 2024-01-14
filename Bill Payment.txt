@@ -1,0 +1,5 @@
+patient1,2000
+patient2,4500
+patient6,5500
+patient7,4600
+patient3,3200

@@ -1,0 +1,8 @@
+patient1,Exercise regularly
+patient2,Take Vitamin C
+patient3,Eat Vegetables
+patient4,Take Suupliments
+patient5,Don't eat Meat
+patient6,Eat seafood
+patient7,Walk 2km daily
+patient8,Drink Limewater daily

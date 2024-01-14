@@ -1,0 +1,6 @@
+patient1,Laiba,22-4-2023,1:00pm
+patient2,Aleeza,23-4-2023,7:00pm
+patient3,Ali,24-4-2023,6:00pm
+patient4,Sameer,25-4-2023,5:00pm
+patient5,Shahnawaz,22-4-2023,4:00pm
+patient9,Hamza,22-3-2023,4:00pm

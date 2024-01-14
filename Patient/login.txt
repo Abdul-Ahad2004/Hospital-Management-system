@@ -1,0 +1,7 @@
+patient1,1234,Laiba,female,18,DepressioN,Panadol,Gulberg,02327439876
+patient2,1234,Aleeza,female,23,Fever,Priton,Samnabad,03827639876
+patient3,1234,Ali,male,75,Diabates,Zestril,Awan Town,07621439876
+patient4,1234,Sameer,male,13,Cough,Disprin,Model Town,09876439876
+patient5,1234,Shahnawaz,male,53,Flue,Panadol,Kashmir,01232439876
+patient6,1234,Ali Usman,male,22,Covid19,Azomax,johar town,03100456982
+patient7,1234,Haadi,male,20,sore throat,Amoxil,Faisal Town,031001234567

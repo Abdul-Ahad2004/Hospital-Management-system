@@ -1,0 +1,2 @@
+1,1,Hammad Tallat,male,1,03005800242,Wapda Town,Lahore
+admin1,1234,male,24,03005800242,Wapda Town,Lahore
