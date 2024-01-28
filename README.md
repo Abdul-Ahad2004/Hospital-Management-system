@@ -28,6 +28,11 @@ This repository houses my second-semester project: a Hospital Management System 
 * **Framework:** .NET Framework
 * **User Interface:** Windows Forms
 
+* **File Handling:**
+The project utilizes file handling techniques to store and retrieve patient records, appointments, prescriptions, and other relevant data, ensuring persistent storage and accessibility.
+
+
+
 **Project Overview:**
 The system operates on a secure login system, granting access to specific functionalities based on user roles. Each user interface is designed to be intuitive and user-friendly, allowing seamless navigation and efficient task completion.
 
